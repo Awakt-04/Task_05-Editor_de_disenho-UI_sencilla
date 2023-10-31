@@ -1,4 +1,5 @@
 <resources>
+<!--    Cadenas de nombre de aplicación, mensaje del EditText y mensaje del Button -->
     <string name="app_name">[Task 05] Editor de diseño - UI sencilla</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
